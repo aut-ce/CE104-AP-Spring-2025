@@ -1697,14 +1697,8 @@ paths:
             schema:
               type: object
               required:
-              - method
               - amount
               properties:
-                method:
-                  type: string
-                  enum:
-                  - online
-                  - card
                 amount:
                   type: number
       responses:
