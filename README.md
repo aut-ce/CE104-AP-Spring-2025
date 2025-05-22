@@ -2,15 +2,19 @@
 
 Welcome to the Advanced Programming course! This repository contains key resources and links for the Spring 2025 semester.
 
+## 🛠 Java Programming Materials
+
+Explore Java programming workshop content, including examples, slides, and practice exercises: 👉 [Java-Programming](https://github.com/AUT-Programming/Java-Programming)
+
+## 📢 Telegram Channel
+
+Join our official Telegram channel to access video content and related workshop materials:
+👉 [AP - Workshop - Videos](https://t.me/+NNFGQjDwWXdjYzQ0)
+
 ## 🔗 Project Resources
 
 Access the project source code and related materials here:
 👉 [AP\_Project\_Tutorial](https://github.com/MahdiHaeri/AP_Project_Tutorial)
-
-## 🛠 Workshop Materials
-
-Find Java workshop examples, slides, and practice content here:
-👉 [Java-Programming](https://github.com/AUT-Programming/Java-Programming)
 
 ## 👨‍🏫 Lecturers
 
