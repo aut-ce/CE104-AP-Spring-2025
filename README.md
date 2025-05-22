@@ -12,7 +12,6 @@ Access the project source code and related materials here:
 Find Java workshop examples, slides, and practice content here:
 👉 [Java-Programming](https://github.com/AUT-Programming/Java-Programming)
 
----- 
 ## 👨‍🏫 Lecturers
 
 * [Prof. Amir Kalbasi](https://www.linkedin.com/in/amir-kalbasi-2235a271)
