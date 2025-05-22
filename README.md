@@ -4,5 +4,5 @@ This repository contains materials for the Advanced Programming course offered i
 
 ## Lecturers
 
-* Prof. A. Kalbasi
-* Prof. H. Zeinali
+* [Prof. A. Kalbasi](https://www.linkedin.com/in/amir-kalbasi-2235a271)
+* [Prof. H. Zeinali](https://www.linkedin.com/in/hossein-zeinali-2342aa78)
