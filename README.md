@@ -19,8 +19,39 @@ Find Java workshop examples, slides, and practice content here:
 
 ## 👨‍💻 Teaching Assistants
 
-* TA Name 1
-* TA Name 2
-* TA Name 3
+### 🎥 Workshop Video Production Team
 
-<!-- Add more as needed -->
+* Alireza Atahrifard
+* Ashkan Chaji
+* Beeta Shayegan
+* Amir Reza Daneshvar
+* Parsa Ghafourani
+* Amir Abbas Entezari
+* Arian Kheirandish
+
+### ❓ Q\&A / Debugging Support Team
+
+* Ali Hasan Yazdi
+* Mohammad Javad Akbari
+* Sajedeh Faghih
+* Arvin Amirhosseini
+
+### 📝 Grading, Evaluation, and Plagiarism Detection Team
+
+* Amin Rezaeian
+* Negar Yadegari
+* Alireza Safari
+* Delaram Rouhani
+* Seyed Amirhossein Mirahmadi
+* Amirhossein Aghighi
+* Kiana Rahbari
+* Aref Abdi
+
+### 📁 Project Design Team
+
+* Sina Sahabi
+* Armin Hamedazimi
+* Sana Sadeghi
+* Mohammad Reza Mobasheri
+* Mahdi Haeri
+
