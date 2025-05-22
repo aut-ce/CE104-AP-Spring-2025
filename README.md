@@ -25,7 +25,7 @@ Find Java workshop examples, slides, and practice content here:
 * Ashkan Chaji
 * Beeta Shayegan
 * Amir Reza Daneshvar
-* Parsa Ghafourani
+* Moein Enayati
 * Amir Abbas Entezari
 * Arian Kheirandish
 
@@ -36,7 +36,7 @@ Find Java workshop examples, slides, and practice content here:
 * Sajedeh Faghih
 * Arvin Amirhosseini
 
-### 📝 Grading, Evaluation, and Plagiarism Detection Team
+### 📝 Assignment Grading Team
 
 * Amin Rezaeian
 * Negar Yadegari
@@ -51,7 +51,10 @@ Find Java workshop examples, slides, and practice content here:
 
 * Sina Sahabi
 * Armin Hamedazimi
-* Sana Sadeghi
+* Sina Sadeghi
 * Mohammad Reza Mobasheri
-* Mahdi Haeri
 
+### 💡 Project Explanation
+
+* Mohammad Bagher Hosseini
+* Mahdi Haeri
