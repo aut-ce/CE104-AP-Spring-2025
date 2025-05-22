@@ -1982,7 +1982,7 @@ paths:
     post:
       tags:
       - admin
-      summary: Create a discount or coupon
+      summary: Create a coupon
       security:
       - bearerAuth: []
       requestBody:
@@ -2021,7 +2021,7 @@ paths:
                   format: date
       responses:
         '201':
-          description: Discount created
+          description: Coupon created
           content:
             application/json:
               schema:
@@ -2046,7 +2046,7 @@ paths:
     delete:
       tags:
       - admin
-      summary: Delete a discount
+      summary: Delete a coupon
       security:
       - bearerAuth: []
       parameters:
@@ -2057,7 +2057,7 @@ paths:
           type: string
       responses:
         '200':
-          description: Discount deleted
+          description: Coupon deleted
         '401':
           $ref: '#/components/responses/unauthorized'
         '404':
@@ -2077,7 +2077,7 @@ paths:
     put:
       tags:
       - admin
-      summary: Update a discount
+      summary: Update a coupon
       security:
       - bearerAuth: []
       requestBody:
@@ -2107,7 +2107,7 @@ paths:
                   type: string
       responses:
         '200':
-          description: Discount updated
+          description: Coupon updated
           content:
             application/json:
               schema:
