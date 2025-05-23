@@ -964,7 +964,7 @@ paths:
                 search:
                   type: string
                 price:
-                  type: string
+                  type: integer
                 categories:
                   type: array
                   items:
@@ -1346,7 +1346,7 @@ paths:
           $ref: '#/components/responses/too_many_requests'
         '500':
           $ref: '#/components/responses/internal_server_error'
-  /ratings/{item_id}:
+  /ratings/items/{item_id}:
     parameters:
     - name: item_id
       in: path
@@ -2295,17 +2295,7 @@ components:
           - failed
     order:
       type: object
-      required:
-      - id
-      - delivery_address
-      - user_id
-      - items
-      - vendor_id
-      - raw_price
-      - tax_fee
-      - courier_fee
-      - pay_price
-      - status
+      required: [id, delivery_address, customer_id, item_ids, vendor_id, raw_price, tax_fee, courier_fee, additional_fee, pay_price, status, created_at, updated_at]
       properties:
         id:
           type: integer
