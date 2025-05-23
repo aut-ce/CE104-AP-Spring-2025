@@ -190,13 +190,6 @@ paths:
           $ref: '#/components/responses/too_many_requests'
         '500':
           $ref: '#/components/responses/internal_server_error'
-  /auth/profile/{id}:
-    parameters:
-    - name: id
-      in: path
-      required: true
-      schema:
-        type: integer
     put:
       tags:
       - auth
