@@ -663,7 +663,7 @@ paths:
     put:
       tags:
       - restaurant
-      summary: Add restaurant menu to system for specific restaurant id
+      summary: Add item to a menu of a restaurant with specific id
       security:
       - bearerAuth: []
       requestBody:
