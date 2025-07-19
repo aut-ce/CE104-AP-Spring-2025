@@ -2342,7 +2342,7 @@ components:
       properties:
         id:
           type: integer
-        item_id:
+        order_id:
           type: integer
         rating:
           type: integer
